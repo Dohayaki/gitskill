@@ -1,2 +1,2 @@
 # gitskill
-Used learning git
+Used learning git.
